@@ -1,6 +1,6 @@
 # multiagents
 
-Two AI agents with different LLMs simulating a chess game with Agentic capabilities.<br />
+Two AI agents with different LLMs with Agentic capabilities simulate a chess game.<br />
 The final score provides the evaluation of the winner based on the following assumptions:<br />
 <br />
 Checkmate detection: It identifies if the game ends with a checkmate.<br />
